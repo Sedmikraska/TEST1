@@ -4,7 +4,7 @@ just trying something out
 2.  
 3.  
 **slight change....**  
-A.    
-B.  
-C  
+A. one      
+B. two  
+C. three  
 
